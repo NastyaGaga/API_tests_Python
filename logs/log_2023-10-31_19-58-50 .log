@@ -1,0 +1,7 @@
+
+     
+Test: tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time: 2023-10-31 19:58:50.974364
+Request method: POST
+Request URL: https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+
